@@ -1,1 +1,1 @@
-Hilt, MVVM
+ MVVM, Retrofit, Api
